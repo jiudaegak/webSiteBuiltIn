@@ -1,5 +1,21 @@
-/* comment on css */
+/* this section is for the test */
 
-.moveabout {
-    margin-right: 100px;
-}
+.ptest {border: 3px solid purple;}
+
+
+.pMove {margin-top: 50px; margin-left: 400px ;color: red;}
+
+#bodyTest {background-image: url(https://64.media.tumblr.com/b360f82e17bd48368ce7648019524764/tumblr_p5ng7sEIZI1ukani1o1_1280.gif);
+            background-size: cover;
+            background-size: 100% 100%;}
+
+.linkTest:link {color: green; background-color: transparent; text-decoration: none;}
+
+.linkTest:visited {color: pink;background-color: transparent; text-decoration: none;}
+
+.linkTest:hover {color: red; background-color: transparent; text-decoration: underline;}
+
+.linkTest:active {color: yellow; background-color: transparent; text-decoration: underline;}
+
+
+.Venom_Braggard {margin-top: 20px;}
